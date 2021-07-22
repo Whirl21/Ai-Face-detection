@@ -7,7 +7,9 @@
 
 > A simple ai face-detection thingy which takes the users video and tell where the face is , what are his expressions and shows his finer points
 
-### ✨ [Demo](whirl21.github.io/ai-face)
+### ✨ [Demo](whirl21.github.io/Ai-Face-detection)
+>Note:
+ >this demo does not work due to github pages not supporting some parts of module however if you run this on your machine it shall work
 
 ## Usage
 
